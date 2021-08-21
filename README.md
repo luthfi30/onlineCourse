@@ -1,1 +1,1 @@
-<h1> Laravel online Course Website </h1>
+<h1> Laravel Online Course Website </h1>
